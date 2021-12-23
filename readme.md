@@ -15,4 +15,4 @@ Landing page feita com css e html a partir do tutorial feito pela  Rafaella Ball
 Com o ambiente devidamente configurado.
 
 1. Abra o terminal e navegue até sua pasta de destino (onde deseja salvar o projeto).
-2. Execute o comando `git clone https://github.com/EduardaMatias/LandingPage.git´ 
+2. Execute o comando `git clone https://github.com/EduardaMatias/LandingPage.git`
